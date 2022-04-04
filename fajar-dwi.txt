@@ -1,7 +1,8 @@
 Fajar resolusi
 -Rajin ibadah sdetiap hari
- ^sholat
- ^mengaji
+^zakat
+^haji
+-Rajin belajar
 -Selalu menghormati orang tua 
 -Sopan
 -Bertanggung Jawab
